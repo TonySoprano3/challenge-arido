@@ -1,0 +1,14 @@
+.app__header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+    height: 70vh;
+
+    .app-designed {
+        position: absolute;
+        bottom: 0;
+    }
+}
